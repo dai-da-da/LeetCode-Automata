@@ -38,7 +38,7 @@
 2. 如果提示 "I understand my workflows, go ahead and enable them"，请点击确认。
 3. 在左侧点击 **LeetCode Daily Auto-Fetch**。
 4. 点击右侧的 **Run workflow** 下拉菜单，然后点击绿色的 **Run workflow** 按钮。
-5. 运行成功后，回到仓库首页刷新，你会发现这篇长长的介绍已经消失，取而代之的是你今天的专属题目！
+5. 运行成功后，回到仓库首页刷新，你会发现这篇长长的介绍已经消失，取而代之的是今天的题目！
 
 ---
 
